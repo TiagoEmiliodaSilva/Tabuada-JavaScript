@@ -1,0 +1,40 @@
+body{
+ background:black;
+ font: normal 15pt arial;
+}
+
+header{
+    color: white;
+    text-align: center; /* centralizando */
+}
+
+input{
+   font: normal 15pt arial;
+}
+
+
+section{
+    background: grey;
+    border-radius: 10px; /* borda */
+    padding: 15px; /* paragrafo na escrita */   
+    width: 500px; 
+    margin: auto; /* centralizar */ 
+    box-shadow: 3px 3px 10px rgba(255, 255, 255, 0.719); /* sombra */ 
+}
+
+select{
+   font: normal 14pt arial;
+}
+
+article {
+    font: normal 15pt arial;
+    background: whitesmoke;
+    width: 300px; 
+    margin: auto;
+}
+
+footer{
+    color: white;
+    text-align: center; /* centralizando */
+    font-style: italic;
+}
